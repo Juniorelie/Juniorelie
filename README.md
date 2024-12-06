@@ -31,6 +31,12 @@ Feel free to look up my different coding projects and give me a feedback !
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/junior-mbakop/) or [mail](mailto:mmbakopjunior@outlook.fr)
 
+Some of the projects I have worked on :
+
+- Game project using HTML, CSS and Vanilla JavaScript : [Shinobi's Road to Fullstack](https://juniorelie.github.io/game-project-side-scroller/)
+- Frontend project using React, Tailwind CSS and API Rest : [Everything Gaming](https://project-react-app-ten.vercel.app/)
+- Fullstack project using React, Node, Express, MongoDB: [My Memories](https://my-memories-six.vercel.app/login)
+
 ## 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
