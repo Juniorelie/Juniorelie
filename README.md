@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * My interest was originally due to wanting to improve my knowledge of digital marketing as a whole (wed dev being the basis of any website)
 * Today I'm still learning through different mooc online (Udemy, The Odin Project, Freecodecamp...)
 
-Feel free to look up my different coding projects and give me a feedback ! 
+Feel free to look up my different coding projects and give me a feedback !
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/junior-mbakop/) or [mail](mailto:mmbakopjunior@outlook.fr)
 
