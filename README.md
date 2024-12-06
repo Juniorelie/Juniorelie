@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Junior Elie MBAKOP
 
 
-**`Web Developer in the making`**
+**`Developer in the making`**
 
 <p>Hello there 👋 and welcome to my GitHub profile.</p>
 <p>A little about me and this GitHub :</p>
